@@ -9,8 +9,8 @@ Please give specific examples where possible, but do not implement an entire DRU
 
 ## Answer
 What I would do is highly dependent on what our code looks like so far and the tech stack we are working with. For example, if our website is 
-a react web app and we are using semantic-ui-react, simply adding ```<meta name="viewport" content="width=device-width, initial-scale=1">' ```
-to the CSS file 
+a react web app and we are using semantic-ui-react, simply adding:
+```<meta name="viewport" content="width=device-width, initial-scale=1">' ``` to the CSS file 
 might solve the problem. The same thing could work if we are working with bootstrap.
 
 However, it is preferred that a website is either built from scratch to be mobile friendly or built to have a mobile design that is unique from the desktop one. If we have the time and developers, I would create a new mobile website that is inspired by the original and matches the colour theme. If we don’t have the time, @media queries are our best bet along with the line of code mentioned above. We might also choose a new look for the desktop website that is more mobile friendly and deploy that. 
