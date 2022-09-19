@@ -28,5 +28,6 @@ If we don’t have the time, @media queries in CSS are our best bet along with t
     and (-webkit-device-pixel-ratio : 2) { } 
 ```
 
-We might also choose a new look for the desktop website that is more mobile friendly and deploy that for both.
+We might also choose a new look for the desktop website that is more mobile friendly and deploy that for an easier workload while transitioning to 
+mobile view.
 
