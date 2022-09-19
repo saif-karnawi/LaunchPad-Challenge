@@ -10,6 +10,7 @@ Please give specific examples where possible, but do not implement an entire DRU
 ## Answer
 What I would do is highly dependent on what our code looks like so far and the tech stack we are working with. For example, if our website is 
 a react web app and we are using semantic-ui-react, simply adding:
+
 ```<meta name="viewport" content="width=device-width, initial-scale=1">' ``` to the CSS file 
 might solve the problem. The same thing could work if we are working with bootstrap.
 
