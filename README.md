@@ -22,7 +22,8 @@ However, it is preferred that a website is either built from scratch to be mobil
 
 If we don’t have the time, @media queries in CSS are our best bet along with the line of code mentioned above. Here is an example: 
 
-``` @media only screen 
+``` 
+    @media only screen 
     and (device-width : x px) 
     and (device-height : x px) 
     and (-webkit-device-pixel-ratio : 2) { } 
