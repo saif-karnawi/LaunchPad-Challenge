@@ -15,11 +15,11 @@ might solve the problem. The same thing could work if we are working with bootst
 
 However, it is preferred that a website is either built from scratch to be mobile friendly or built to have a mobile design that is unique from the desktop one. If we have the time and developers, I would create a new mobile website that is inspired by the original and matches the colour theme with a little twist. For example, see below for desktop menus as opposed to mobile ones. 
 
-<p align="center">
- <img src = ![1_mpIg9ImJKCRkGdqwl1T-BA](https://user-images.githubusercontent.com/96713723/190941233-70bf26cd-994a-43f0-81c1-b345ed7f6933.jpeg)/>
-</p>
-
-![DsC1dZY](https://user-images.githubusercontent.com/96713723/190940254-f3b51f70-2827-4da5-ad60-a3ad7ebeaaab.gif)
+<div>
+    <img align=top src=![1_mpIg9ImJKCRkGdqwl1T-BA](https://user-images.githubusercontent.com/96713723/190941414-87a9428b-be10-4ec5-874b-9aeb8c139e00.jpeg)
+/>
+    <img align=top src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+<div>
 
 If we don’t have the time, @media queries in CSS are our best bet along with the line of code mentioned above. Here is an example: 
 
