@@ -20,7 +20,7 @@ However, it is preferred that a website is either built from scratch to be mobil
     <img align=center src="https://user-images.githubusercontent.com/96713723/190941553-c630a48d-ba5b-4186-989a-062b1eec5993.gif"/>
 </p>
 
-If we don’t have the time, @media queries in CSS are our best bet along with the line of code mentioned above. Here is an example: 
+If we don’t have the time, we can work with @media queries in CSS along with the line of code mentioned above. Here is an example of media queries: 
 
 ``` 
     @media only screen 
