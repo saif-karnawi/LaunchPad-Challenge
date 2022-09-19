@@ -18,5 +18,5 @@ However, it is preferred that a website is either built from scratch to be mobil
 ![1_mpIg9ImJKCRkGdqwl1T-BA](https://user-images.githubusercontent.com/96713723/190940486-738bb593-baf9-495b-87e2-6c191f9a089a.jpeg)
 ![DsC1dZY](https://user-images.githubusercontent.com/96713723/190940254-f3b51f70-2827-4da5-ad60-a3ad7ebeaaab.gif)
 
-If we don’t have the time, @media queries are our best bet along with the line of code mentioned above. We might also choose a new look for the desktop website that is more mobile friendly and deploy that. 
+If we don’t have the time, @media queries in CSS are our best bet along with the line of code mentioned above. We might also choose a new look for the desktop website that is more mobile friendly and deploy that for both. 
 
