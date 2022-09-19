@@ -26,8 +26,7 @@ If we don’t have the time, @media queries in CSS are our best bet along with t
 ``` @media only screen 
     and (device-width : x px) 
     and (device-height : x px) 
-    and (-webkit-device-pixel-ratio : 2) { }
-    ```
+    and (-webkit-device-pixel-ratio : 2) { } ```
 
 We might also choose a new look for the desktop website that is more mobile friendly and deploy that for both.
 
