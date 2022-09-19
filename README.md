@@ -15,7 +15,7 @@ might solve the problem. The same thing could work if we are working with bootst
 
 However, it is preferred that a website is either built from scratch to be mobile friendly or built to have a mobile design that is unique from the desktop one. If we have the time and developers, I would create a new mobile website that is inspired by the original and matches the colour theme with a little twist. For example, see below for desktop menus as opposed to mobile ones. 
 
-<p float="left">
+<p align="center">
     <img align=center src="https://user-images.githubusercontent.com/96713723/190941414-87a9428b-be10-4ec5-874b-9aeb8c139e00.jpeg"/>
     <img align=center src="https://user-images.githubusercontent.com/96713723/190941553-c630a48d-ba5b-4186-989a-062b1eec5993.gif"/>
 </p>
