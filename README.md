@@ -15,8 +15,19 @@ might solve the problem. The same thing could work if we are working with bootst
 
 However, it is preferred that a website is either built from scratch to be mobile friendly or built to have a mobile design that is unique from the desktop one. If we have the time and developers, I would create a new mobile website that is inspired by the original and matches the colour theme with a little twist. For example, see below for desktop menus as opposed to mobile ones. 
 
+<p align="center">
 ![1_mpIg9ImJKCRkGdqwl1T-BA](https://user-images.githubusercontent.com/96713723/190940486-738bb593-baf9-495b-87e2-6c191f9a089a.jpeg)
+</p>
+
 ![DsC1dZY](https://user-images.githubusercontent.com/96713723/190940254-f3b51f70-2827-4da5-ad60-a3ad7ebeaaab.gif)
 
-If we don’t have the time, @media queries in CSS are our best bet along with the line of code mentioned above. We might also choose a new look for the desktop website that is more mobile friendly and deploy that for both. 
+If we don’t have the time, @media queries in CSS are our best bet along with the line of code mentioned above. Here is an example: 
+
+``` @media only screen 
+    and (device-width : x px) 
+    and (device-height : x px) 
+    and (-webkit-device-pixel-ratio : 2) { }
+    ```
+
+We might also choose a new look for the desktop website that is more mobile friendly and deploy that for both.
 
